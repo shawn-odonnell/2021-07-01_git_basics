@@ -1,4 +1,4 @@
-# git basics
+# Git Basics
 
 - `git init`: initialize git repository in current working directory
 - `git status`: gives you the status of the repository
@@ -20,7 +20,7 @@
 - Use a  `.gitkeep` file to maintain an empty folder in a repo
 - Use a `.gitignore` file to remove files or file types from the repo
 
-# remotes
+# Remotes
 
 - `ssh-keygen`: add an SSH key to my system
 - `git remote add <URL>`: adds the url
