@@ -17,3 +17,6 @@
 	- if you run `git checkout <HASH>` without the <FILE>
 	- ...you can fix this by running `git checkout main`
 
+- Use a  `.gitkeep` file to maintain an empty folder in a repo
+- Use a `.gitignore` file to remove files or file types from the repo
+
