@@ -21,5 +21,7 @@
 - Use a `.gitignore` file to remove files or file types from the repo
 
 # remotes
+
+- `ssh-keygen`: add an SSH key to my system
 - `git remote add <URL>`: adds the url
 - `git push origin main`: push the main branch to the origin remote
