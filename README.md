@@ -26,3 +26,7 @@
 - `git remote add <URL>`: adds the url
 - `git push origin main`: push the main branch to the origin remote
 - `git pull origin main`: pull the main branch from the origin remote
+
+## Daniel's GitHub for this course:
+
+https://github.com/chendaniely/2021-07-01-git_basics
