@@ -30,3 +30,7 @@
 ## Daniel's GitHub for this course:
 
 https://github.com/chendaniely/2021-07-01-git_basics
+
+N.B.: If you want to use another key, you might have to add it to ssh-agent with a line like this:
+
+`ssh-add ~/.ssh/_id_rsa` assuming that the new ssh key is called `_id_rsa`
